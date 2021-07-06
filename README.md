@@ -2,10 +2,13 @@
 This is still under construction
 
 ### Contacts
-Personal Website: [mgcmacaraeg.com](http://www.mgcmacaraeg.com/) 
+Personal Website: [mgcmacaraeg.com](http://www.mgcmacaraeg.com/) (redirects to this Github profile for now)
 
 Business Contact: [me@mgcmacaraeg.com](mailto:me@mgcmacaraeg.com)
 
+### Current Projects
+
+My Sandbox: [sandbox.mgcmacaraeg.com](http://sandbox.mgcmacaraeg.com)
 <!--
 **SporadicToast/sporadictoast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
