@@ -1,3 +1,4 @@
+<h3> Proficient In: </h3>
 <p align='center'>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='50' /> <br>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' height='50'/>
@@ -6,26 +7,14 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg' height='50'/>
   
 </p>
-### Contacts
-Personal Website: [mgcmacaraeg.com](http://www.mgcmacaraeg.com/) (redirects to this Github profile for now)
+This profile is under construction. <br>
+<h3> Contacts </h3>
+Personal Website: <a href='http://www.mgcmacaraeg.com/'> mgcmacaraeg.com </a> (redirects to this Github profile for now) <br>
+Business Contact:  <a href='mailto:me@mgcmacaraeg.com'> me@mgcmacaraeg.com </a>
 
-Business Contact: [me@mgcmacaraeg.com](mailto:me@mgcmacaraeg.com)
+<h3> Current Projects </h3>
 
-### Current Projects
+sismika:  <a href='http://sismika.mgcmacaraeg.com'> sismika.mgcmacaraeg.com </a> <br>
+My Sandbox: <a href='http://sandbox.mgcmacaraeg.com'> sandbox.mgcmacaraer.com </a>
 
-sismika: [sismika.mgcmacaraeg.com](http://sismika.mgcmacaraeg.com) <br>
-My Sandbox: [sandbox.mgcmacaraeg.com](http://sandbox.mgcmacaraeg.com)
-<!--
-**SporadicToast/sporadictoast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
