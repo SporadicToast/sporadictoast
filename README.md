@@ -1,4 +1,4 @@
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' height='100'/>
 
 ### Contacts
 Personal Website: [mgcmacaraeg.com](http://www.mgcmacaraeg.com/) (redirects to this Github profile for now)
